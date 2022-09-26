@@ -1,0 +1,28 @@
+---
+title: "DSCI521_Lab4_Q7"
+output: html_document
+date: "2022-09-26"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Ice Cream Flavors
+
+We can make a choose some ice cream flavors and put them in a list.
+
+```{r ice_cream_flavors}
+flavors <- list("vanilla", "chocolate", "strawberry")
+flavors
+```
+
+## Chocolate Brands
+
+We can also choose some brands of chocolate and put them in a vector.
+
+```{r chocolate_brands}
+chocolates <- c("Lindt", "Cadbury", "Ferrero")
+chocolates
+```
+
