@@ -247,7 +247,11 @@ to the GitHub repository for this lab
 and paste the two links below this question.
 ```
 
-YOUR ANSWER GOES HERE
+HTML Output:
+<https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_xinxin5/blob/master/DSCI521_lab4_Q7.html>
+
+PDF Output:
+<https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_xinxin5/blob/master/DSCI521_lab4_Q7.pdf>
 
 ```{block, type="alert alert-info"}
 #### Question 8
@@ -266,7 +270,11 @@ rubric={mechanics:6}
    Paste a link to these files as your answer below.
 ```
 
-YOUR ANSWER GOES HERE
+Rmd file link:
+<https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_xinxin5/blob/master/DSCI521_lab4_Q8.Rmd>
+
+HTML file link:
+<https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_xinxin5/blob/master/DSCI521_lab4_Q8.html>
 
 ```{block, type="alert alert-info"}
 #### Question 9 (Optional)
